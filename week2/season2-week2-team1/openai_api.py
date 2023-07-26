@@ -2,12 +2,12 @@ import os
 import openai
 import tiktoken
 import json
-# from dotenv import load_dotenv
+from dotenv import load_dotenv
 
-# load_dotenv()
+load_dotenv()
 
 # OpenAI API Key 세팅하기
-openai.api_key = "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"
+openai.api_key = os.environ.get("OPENAI_API_KEY")
 
 model = "gpt-3.5-turbo"
 system_message = "You are a helpful assistant"
@@ -26,24 +26,6 @@ class OpenAI_API:
         response = openai.ChatCompletion.create(model=self.model, messages=messages).choices[0].message.content
         return response
     
-    def function_call(self, query):
-        messages = [
-            {"role":"user", "content":query}
-        ]
-        response = openai.ChatCompletion.create(
-            model="gpt-3.5-turbo-0613",
-            messages=messages,
-            functions=functions,
-            function_call="auto",  # auto is default, but we'll be explicit
-        )
-        response_message = response["choices"][0]["message"]
-        function_name = response_message["function_call"]["name"]
-        function_args = json.loads(response_message["function_call"]["arguments"])
-
-        
-
-        return function_name, function_args
-        
         
     @staticmethod
     def get_embedding(query):

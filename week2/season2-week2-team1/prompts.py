@@ -10,8 +10,11 @@ you are required to extract the most relevant URL.
 You MUST not output any other text.
 Only output the url.
 
-Example output:
+Example output 1:
 https://www.langchain.com
+
+Example output 2:
+https://huggingface.co/stabilityai/FreeWilly2
 
 Initial user query:
 {query}
@@ -30,6 +33,9 @@ The ultimate goal is:
 
 Your previous action and corresponding result was as follows:
 {previous_action}
+
+Available tools are:
+{tools}
 
 What will you do next?
 """
