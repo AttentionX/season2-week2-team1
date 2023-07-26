@@ -1,0 +1,622 @@
+{
+    "search_metadata": {
+        "id": "64c113e89bddf72360924230",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/179bfc7da5a90319/64c113e89bddf72360924230.json",
+        "created_at": "2023-07-26 12:39:04 UTC",
+        "processed_at": "2023-07-26 12:39:04 UTC",
+        "google_url": "https://www.google.com/search?q=self-attention&oq=self-attention&hl=ko&gl=kr&sourceid=chrome&ie=UTF-8",
+        "raw_html_file": "https://serpapi.com/searches/179bfc7da5a90319/64c113e89bddf72360924230.html",
+        "total_time_taken": 5.83
+    },
+    "search_parameters": {
+        "engine": "google",
+        "q": "self-attention",
+        "google_domain": "google.com",
+        "hl": "ko",
+        "gl": "kr",
+        "device": "desktop"
+    },
+    "search_information": {
+        "organic_results_state": "Results for exact spelling",
+        "query_displayed": "self-attention",
+        "total_results": 1470000000,
+        "time_taken_displayed": 0.41,
+        "menu_items": [
+            {
+                "position": 1,
+                "title": "이미지",
+                "link": "https://www.google.com/search?sca_esv=551161701&hl=ko&gl=kr&q=self-attention&tbm=isch&source=lnms&sa=X&ved=2ahUKEwismdqSsqyAAxUASjABHSUsCusQ0pQJegQIDBAB",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_images&gl=kr&google_domain=google.com&hl=ko&q=self-attention"
+            },
+            {
+                "position": 2,
+                "title": "동영상",
+                "link": "https://www.google.com/search?sca_esv=551161701&hl=ko&gl=kr&q=self-attention&tbm=vid&source=lnms&sa=X&ved=2ahUKEwismdqSsqyAAxUASjABHSUsCusQ0pQJegQICBAB",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_videos&gl=kr&google_domain=google.com&hl=ko&q=self-attention"
+            },
+            {
+                "position": 3,
+                "title": "도서",
+                "link": "https://www.google.com/search?sca_esv=551161701&hl=ko&gl=kr&q=self-attention&tbm=bks&source=lnms&sa=X&ved=2ahUKEwismdqSsqyAAxUASjABHSUsCusQ0pQJegQICRAB"
+            },
+            {
+                "position": 4,
+                "title": "Attention 차이",
+                "link": "https://www.google.com/search?sca_esv=551161701&hl=ko&gl=kr&q=self-attention+attention+%EC%B0%A8%EC%9D%B4&uds=H4sIAAAAAAAA_-Ny5RJwLClJzSvJzM9TeLNhxZu5W4T4ilNz0nQTYcIGTEXyqCIKiWhaAKq7AvdHAAAA&sa=X&ved=2ahUKEwismdqSsqyAAxUASjABHSUsCusQxKsJegQICxAB&ictx=0",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=kr&google_domain=google.com&hl=ko&q=self-attention+attention+%EC%B0%A8%EC%9D%B4"
+            },
+            {
+                "position": 5,
+                "title": "Transformer",
+                "link": "https://www.google.com/search?sca_esv=551161701&hl=ko&gl=kr&q=Transformer+Self-Attention&uds=H4sIAAAAAAAA_-Oy5uIOKUrMK07LL8pNLRLiK07NSdNNLClJzSvJzM8zYCqSQpJWCAbJOsJkAR9AxUA9AAAA&sa=X&ved=2ahUKEwismdqSsqyAAxUASjABHSUsCusQxKsJegQIVxAB&ictx=0",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=kr&google_domain=google.com&hl=ko&q=Transformer+Self-Attention"
+            },
+            {
+                "position": 6,
+                "title": "장점",
+                "link": "https://www.google.com/search?sca_esv=551161701&hl=ko&gl=kr&q=self-attention+%EC%9E%A5%EC%A0%90&uds=H4sIAAAAAAAA_-My5GJ7M2_pmwUThPiKU3PSdBNLSlLzSjLz8wyYikRRRRQgCgGG2z1CMwAAAA&sa=X&ved=2ahUKEwismdqSsqyAAxUASjABHSUsCusQxKsJegQIVRAB&ictx=0",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=kr&google_domain=google.com&hl=ko&q=self-attention+%EC%9E%A5%EC%A0%90"
+            },
+            {
+                "position": 7,
+                "title": "Mechanism",
+                "link": "https://www.google.com/search?sca_esv=551161701&hl=ko&gl=kr&q=Self-attention+mechanism&uds=H4sIAAAAAAAA_-My5-L0TU3OSMzLLM4V4itOzUnTTSwpSc0ryczPM2AqkghGEVHIhakFAEAiSW85AAAA&sa=X&ved=2ahUKEwismdqSsqyAAxUASjABHSUsCusQxKsJegQIVBAB&ictx=0",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=kr&google_domain=google.com&hl=ko&q=Self-attention+mechanism"
+            },
+            {
+                "position": 8,
+                "title": "Paper",
+                "link": "https://www.google.com/search?sca_esv=551161701&hl=ko&gl=kr&q=Self-attention+paper&uds=H4sIAAAAAAAA_-PS52INSCxILRLiK07NSdNNLClJzSvJzM8zYCoSCUYRUSgAqQMAB3AUIzEAAAA&sa=X&ved=2ahUKEwismdqSsqyAAxUASjABHSUsCusQxKsJegQIVhAB&ictx=0",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=kr&google_domain=google.com&hl=ko&q=Self-attention+paper"
+            },
+            {
+                "position": 9,
+                "title": "CNN",
+                "link": "https://www.google.com/search?sca_esv=551161701&hl=ko&gl=kr&q=Self-attention+CNN&uds=H4sIAAAAAAAA_-PS5mJ29vMT4itOzUnTTSwpSc0ryczPM2AqEgpGEVEAqgIAbpSlYi0AAAA&sa=X&ved=2ahUKEwismdqSsqyAAxUASjABHSUsCusQxKsJegQIUxAB&ictx=0",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=kr&google_domain=google.com&hl=ko&q=Self-attention+CNN"
+            }
+        ]
+    },
+    "knowledge_graph": {
+        "title": "주의 집중 (Attention)",
+        "type": "기계 학습",
+        "kgmid": "/g/11qpclnpwr",
+        "knowledge_graph_search_link": "https://www.google.com/search?kgmid=/g/11qpclnpwr&hl=ko-KR&q=%EC%A3%BC%EC%9D%98%EC%A7%91%EC%A4%91+(%EA%B8%B0%EA%B3%84+%ED%95%99%EC%8A%B5)&kgs=024830f48690923c&shndl=0&source=sh/x/kp/m1/1",
+        "serpapi_knowledge_graph_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=kr&google_domain=google.com&hl=ko-KR&kgmid=%2Fg%2F11qpclnpwr&q=%EC%A3%BC%EC%9D%98%EC%A7%91%EC%A4%91+%28%EA%B8%B0%EA%B3%84+%ED%95%99%EC%8A%B5%29",
+        "tabs": [
+            {
+                "text": "Attention 차이",
+                "link": "https://www.google.com/search?sca_esv=551161701&hl=ko&gl=kr&q=self-attention+attention+%EC%B0%A8%EC%9D%B4&uds=H4sIAAAAAAAA_-Ny5RJwLClJzSvJzM9TeLNhxZu5W4T4ilNz0nQTYcIGTEXyqCIKiWhaAKq7AvdHAAAA&sa=X&ved=2ahUKEwismdqSsqyAAxUASjABHSUsCusQxKsJegQICxAB&ictx=0",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=kr&google_domain=google.com&hl=ko&q=self-attention+attention+%EC%B0%A8%EC%9D%B4"
+            },
+            {
+                "text": "Transformer",
+                "link": "https://www.google.com/search?sca_esv=551161701&hl=ko&gl=kr&q=Transformer+Self-Attention&uds=H4sIAAAAAAAA_-Oy5uIOKUrMK07LL8pNLRLiK07NSdNNLClJzSvJzM8zYCqSQpJWCAbJOsJkAR9AxUA9AAAA&sa=X&ved=2ahUKEwismdqSsqyAAxUASjABHSUsCusQxKsJegQIVxAB&ictx=0",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=kr&google_domain=google.com&hl=ko&q=Transformer+Self-Attention"
+            },
+            {
+                "text": "장점",
+                "link": "https://www.google.com/search?sca_esv=551161701&hl=ko&gl=kr&q=self-attention+%EC%9E%A5%EC%A0%90&uds=H4sIAAAAAAAA_-My5GJ7M2_pmwUThPiKU3PSdBNLSlLzSjLz8wyYikRRRRQgCgGG2z1CMwAAAA&sa=X&ved=2ahUKEwismdqSsqyAAxUASjABHSUsCusQxKsJegQIVRAB&ictx=0",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=kr&google_domain=google.com&hl=ko&q=self-attention+%EC%9E%A5%EC%A0%90"
+            },
+            {
+                "text": "Mechanism",
+                "link": "https://www.google.com/search?sca_esv=551161701&hl=ko&gl=kr&q=Self-attention+mechanism&uds=H4sIAAAAAAAA_-My5-L0TU3OSMzLLM4V4itOzUnTTSwpSc0ryczPM2AqkghGEVHIhakFAEAiSW85AAAA&sa=X&ved=2ahUKEwismdqSsqyAAxUASjABHSUsCusQxKsJegQIVBAB&ictx=0",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=kr&google_domain=google.com&hl=ko&q=Self-attention+mechanism"
+            },
+            {
+                "text": "Paper",
+                "link": "https://www.google.com/search?sca_esv=551161701&hl=ko&gl=kr&q=Self-attention+paper&uds=H4sIAAAAAAAA_-PS52INSCxILRLiK07NSdNNLClJzSvJzM8zYCoSCUYRUSgAqQMAB3AUIzEAAAA&sa=X&ved=2ahUKEwismdqSsqyAAxUASjABHSUsCusQxKsJegQIVhAB&ictx=0",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=kr&google_domain=google.com&hl=ko&q=Self-attention+paper"
+            },
+            {
+                "text": "CNN",
+                "link": "https://www.google.com/search?sca_esv=551161701&hl=ko&gl=kr&q=Self-attention+CNN&uds=H4sIAAAAAAAA_-PS5mJ29vMT4itOzUnTTSwpSc0ryczPM2AqEgpGEVEAqgIAbpSlYi0AAAA&sa=X&ved=2ahUKEwismdqSsqyAAxUASjABHSUsCusQxKsJegQIUxAB&ictx=0",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=kr&google_domain=google.com&hl=ko&q=Self-attention+CNN"
+            }
+        ],
+        "header_images": [
+            {
+                "image": "https://serpapi.com/searches/64c113e89bddf72360924230/images/a7ddef9ca10fefd6fc54858e7b102d82cc4130748aa71c67c91dc7b1dd9caa0df20f229d4f4087ae.png",
+                "source": "https://ko.wikipedia.org/wiki/%EC%A3%BC%EC%9D%98_%EC%A7%91%EC%A4%91_(%EA%B8%B0%EA%B3%84_%ED%95%99%EC%8A%B5)"
+            },
+            {
+                "image": "https://serpapi.com/searches/64c113e89bddf72360924230/images/a7ddef9ca10fefd6fc54858e7b102d82cc4130748aa71c67a0fbbdae91044c318f618d5275065146.png",
+                "source": "https://medium.com/machine-intelligence-and-deep-learning-lab/transformer-the-self-attention-mechanism-d7d853c2c621"
+            },
+            {
+                "image": "https://serpapi.com/searches/64c113e89bddf72360924230/images/a7ddef9ca10fefd6fc54858e7b102d82cc4130748aa71c67f5cb0cc52e0cf203211febd5bbdcd232.png",
+                "source": "https://sebastianraschka.com/blog/2023/self-attention-from-scratch.html"
+            },
+            {
+                "image": "https://serpapi.com/searches/64c113e89bddf72360924230/images/a7ddef9ca10fefd6fc54858e7b102d82cc4130748aa71c67b630406e2e5dfff2c14d2cce5337e81a.png",
+                "source": "https://theaisummer.com/self-attention/"
+            },
+            {
+                "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRa-V7xYO6dqLGj0G9Bf5RgEQu25Af_eADLThACkT9cLQ&s",
+                "source": "https://wdprogrammer.tistory.com/72"
+            },
+            {
+                "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRX5EYVNa_GyIcHbqXXQwnESB9J7T7ZGpcuuliG-cliOw&s",
+                "source": "https://vaclavkosar.com/ml/transformers-self-attention-mechanism-simplified"
+            }
+        ],
+        "description": "신경망에서 주의 집중은 인지심리학에서의 주의를 모방하여 고안된 기술이다. 주의 집중은 입력 데이터 중 일부의 효과를 증강시키며, 다른 일부를 감소시킨다. 이는 네트워크가 데이터 중 비중이 적지만 중요한 데이터에 더 집중하게 하기 위해서이다.",
+        "source": {
+            "name": "위키백과",
+            "link": "https://ko.wikipedia.org/wiki/%EC%A3%BC%EC%9D%98_%EC%A7%91%EC%A4%91_(%EA%B8%B0%EA%B3%84_%ED%95%99%EC%8A%B5)"
+        }
+    },
+    "inline_images": [
+        {
+            "link": "https://www.google.com/search?q=self-attention&sca_esv=551161701&hl=ko&gl=kr&tbm=isch&source=iu&ictx=1&vet=1&fir=TtJ1ivkUjyRMaM%252CcDGqusmXZjt0JM%252C%252Fg%252F11qpclnpwr%253BvojKeqq8-5ok1M%252ChrJgCa7xpqrv4M%252C_%253BAgaounI5HMLFRM%252CETHZx9LvnuWF_M%252C_%253BRijDSx0tMlOrHM%252C_HW8aSk-TrwmnM%252C_%253Bje4-41GyGAj7tM%252ClGRCQAurV-aLaM%252C_%253B4l1h3Hf-lpJj7M%252CmaL2jgzNcnUQlM%252C_&usg=AI4_-kQMe1xRcIx2RfZk9Wj4baU2vTPVmA&sa=X&ved=2ahUKEwismdqSsqyAAxUASjABHSUsCusQ_B16BAhOEAE#imgrc=TtJ1ivkUjyRMaM",
+            "source": "https://ko.wikipedia.org/wiki/%EC%A3%BC%EC%9D%98_%EC%A7%91%EC%A4%91_(%EA%B8%B0%EA%B3%84_%ED%95%99%EC%8A%B5)",
+            "thumbnail": "https://serpapi.com/searches/64c113e89bddf72360924230/images/6cec5a66c6003acd32d0a3cea02adfafaeddee02a26503696e962a4f0e8a8a11.png",
+            "original": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Attention-animated.gif/700px-Attention-animated.gif",
+            "title": "upload.wikimedia.org/wikipedia/commons/thumb/0/05/...",
+            "source_name": "ko.wikipedia.org"
+        },
+        {
+            "link": "https://www.google.com/search?q=self-attention&sca_esv=551161701&hl=ko&gl=kr&tbm=isch&source=iu&ictx=1&vet=1&fir=TtJ1ivkUjyRMaM%252CcDGqusmXZjt0JM%252C_%253BvojKeqq8-5ok1M%252ChrJgCa7xpqrv4M%252C_%253BAgaounI5HMLFRM%252CETHZx9LvnuWF_M%252C_%253BRijDSx0tMlOrHM%252C_HW8aSk-TrwmnM%252C_%253Bje4-41GyGAj7tM%252ClGRCQAurV-aLaM%252C_%253B4l1h3Hf-lpJj7M%252CmaL2jgzNcnUQlM%252C_&usg=AI4_-kReaxwXokw5FzfFKKsBFW-ro2qk3g&sa=X&ved=2ahUKEwismdqSsqyAAxUASjABHSUsCusQ_h16BAhLEAE#imgrc=vojKeqq8-5ok1M",
+            "source": "https://medium.com/machine-intelligence-and-deep-learning-lab/transformer-the-self-attention-mechanism-d7d853c2c621",
+            "thumbnail": "https://serpapi.com/searches/64c113e89bddf72360924230/images/6cec5a66c6003acd4e3b82bf565ee4eec887b743ca050d51ccc57724cbcd66e3.png",
+            "original": "https://miro.medium.com/v2/resize:fit:975/1*vrSX_Ku3EmGPyqF_E-2_Vg.png",
+            "title": "Transformer: The Self-Attention Mechanism | by Sudipto Baul ...",
+            "source_name": "Medium"
+        },
+        {
+            "link": "https://www.google.com/search?q=self-attention&sca_esv=551161701&hl=ko&gl=kr&tbm=isch&source=iu&ictx=1&vet=1&fir=TtJ1ivkUjyRMaM%252CcDGqusmXZjt0JM%252C_%253BvojKeqq8-5ok1M%252ChrJgCa7xpqrv4M%252C_%253BAgaounI5HMLFRM%252CETHZx9LvnuWF_M%252C_%253BRijDSx0tMlOrHM%252C_HW8aSk-TrwmnM%252C_%253Bje4-41GyGAj7tM%252ClGRCQAurV-aLaM%252C_%253B4l1h3Hf-lpJj7M%252CmaL2jgzNcnUQlM%252C_&usg=AI4_-kReaxwXokw5FzfFKKsBFW-ro2qk3g&sa=X&ved=2ahUKEwismdqSsqyAAxUASjABHSUsCusQ_h16BAhKEAE#imgrc=AgaounI5HMLFRM",
+            "source": "https://sebastianraschka.com/blog/2023/self-attention-from-scratch.html",
+            "thumbnail": "https://serpapi.com/searches/64c113e89bddf72360924230/images/6cec5a66c6003acd94d15b4b0b6a795cd4a676f71a33628bfc1d54ccd1d971c6.png",
+            "original": "https://sebastianraschka.com/images/blog/2023/self-attention-from-scratch/transformer.png",
+            "title": "Understanding and Coding the Self-Attention Mechanism of ...",
+            "source_name": "Sebastian Raschka"
+        },
+        {
+            "link": "https://www.google.com/search?q=self-attention&sca_esv=551161701&hl=ko&gl=kr&tbm=isch&source=iu&ictx=1&vet=1&fir=TtJ1ivkUjyRMaM%252CcDGqusmXZjt0JM%252C_%253BvojKeqq8-5ok1M%252ChrJgCa7xpqrv4M%252C_%253BAgaounI5HMLFRM%252CETHZx9LvnuWF_M%252C_%253BRijDSx0tMlOrHM%252C_HW8aSk-TrwmnM%252C_%253Bje4-41GyGAj7tM%252ClGRCQAurV-aLaM%252C_%253B4l1h3Hf-lpJj7M%252CmaL2jgzNcnUQlM%252C_&usg=AI4_-kReaxwXokw5FzfFKKsBFW-ro2qk3g&sa=X&ved=2ahUKEwismdqSsqyAAxUASjABHSUsCusQ_h16BAhIEAE#imgrc=RijDSx0tMlOrHM",
+            "source": "https://theaisummer.com/self-attention/",
+            "thumbnail": "https://serpapi.com/searches/64c113e89bddf72360924230/images/6cec5a66c6003acd3b99203efc2123d7d27e8ae55117802158044a0db983eb85.png",
+            "original": "https://theaisummer.com/static/e497f0d469418119f9db9c53b9851e61/b9460/self-attention-explained.png",
+            "title": "Why multi-head self attention works: math, intuitions and 10 ...",
+            "source_name": "AI Summer"
+        },
+        {
+            "link": "https://www.google.com/search?q=self-attention&sca_esv=551161701&hl=ko&gl=kr&tbm=isch&source=iu&ictx=1&vet=1&fir=TtJ1ivkUjyRMaM%252CcDGqusmXZjt0JM%252C_%253BvojKeqq8-5ok1M%252ChrJgCa7xpqrv4M%252C_%253BAgaounI5HMLFRM%252CETHZx9LvnuWF_M%252C_%253BRijDSx0tMlOrHM%252C_HW8aSk-TrwmnM%252C_%253Bje4-41GyGAj7tM%252ClGRCQAurV-aLaM%252C_%253B4l1h3Hf-lpJj7M%252CmaL2jgzNcnUQlM%252C_&usg=AI4_-kReaxwXokw5FzfFKKsBFW-ro2qk3g&sa=X&ved=2ahUKEwismdqSsqyAAxUASjABHSUsCusQ_h16BAhJEAE#imgrc=je4-41GyGAj7tM",
+            "source": "https://wdprogrammer.tistory.com/72",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRa-V7xYO6dqLGj0G9Bf5RgEQu25Af_eADLThACkT9cLQ&s",
+            "original": "http://jalammar.github.io/images/t/self-attention-output.png",
+            "title": "NLP] Transformer 모델 분석 (Self-Attention)",
+            "source_name": "Wide and Deep Programming - 티스토리"
+        },
+        {
+            "link": "https://www.google.com/search?q=self-attention&sca_esv=551161701&hl=ko&gl=kr&tbm=isch&source=iu&ictx=1&vet=1&fir=TtJ1ivkUjyRMaM%252CcDGqusmXZjt0JM%252C_%253BvojKeqq8-5ok1M%252ChrJgCa7xpqrv4M%252C_%253BAgaounI5HMLFRM%252CETHZx9LvnuWF_M%252C_%253BRijDSx0tMlOrHM%252C_HW8aSk-TrwmnM%252C_%253Bje4-41GyGAj7tM%252ClGRCQAurV-aLaM%252C_%253B4l1h3Hf-lpJj7M%252CmaL2jgzNcnUQlM%252C_&usg=AI4_-kReaxwXokw5FzfFKKsBFW-ro2qk3g&sa=X&ved=2ahUKEwismdqSsqyAAxUASjABHSUsCusQ_h16BAhHEAE#imgrc=4l1h3Hf-lpJj7M",
+            "source": "https://vaclavkosar.com/ml/transformers-self-attention-mechanism-simplified",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRX5EYVNa_GyIcHbqXXQwnESB9J7T7ZGpcuuliG-cliOw&s",
+            "original": "https://vaclavkosar.com/images/transformer-full-model.png",
+            "title": "Transformer's Self-Attention Mechanism Simplified",
+            "source_name": "Vaclav Kosar's Software & Machine Learning Blog"
+        }
+    ],
+    "related_questions": [
+        {
+            "question": "What is self-attention?",
+            "snippet": "Self-attention, sometimes called intra-attention, is an attention mechanism relating different positions of a single sequence in order to compute a representation of the sequence.",
+            "title": "The Transformer Attention Mechanism - MachineLearningMastery.com",
+            "date": "2022. 9. 15.",
+            "link": "https://machinelearningmastery.com/the-transformer-attention-mechanism/",
+            "displayed_link": "https://machinelearningmastery.com › the-transformer-att...",
+            "thumbnail": "https://serpapi.com/searches/64c113e89bddf72360924230/images/282737a9f02dd8b7f68e4eb6e8a14388769a2a15f6d631be75380bfaca119668.png",
+            "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJUV3N5Ykd4TFlXOWFOREpGY0dKSFMwUjJUa3BFTTJOelNIQTFOMEpvY0ZoUWQwUkRaVkZXYVU5SWNrSnRkVnBqWm0xc2JGRTBUbWgwWjI1Vk9USkxTbkprZVhnd1YwNHpPVGxwRWhjM1VsQkNXazk2ZFV4WlExVjNZbXRRY0dScGJ6SkJOQm9pUVV4RlV6bDFUV0l6VXpKV1VWZzNNVlpSWDA4MWRtaGtWRXgxYjA1bVRsbHNRUSIsImZjdiI6IjMiLCJlaSI6IjdSUEJaT3p1TFlDVXdia1BwZGlvMkE0IiwicWMiOiJDZzV6Wld4bUlHRjBkR1Z1ZEdsdmJoQUFmWmkxNWo0IiwicXVlc3Rpb24iOiJXaGF0IGlzIHNlbGYtYXR0ZW50aW9uPyIsImxrIjoiYzVPU0trN05TVk5JTENsSnpTdkp6TTlUU0swb3lFbk1Td1N4QVEiLCJicyI6ImMtT1M0UklQejBnc1VjZ3NWaWhPelVuVFRTd3BTYzByeWN6UHM1ZDRLY3RseTJVQmswM0pURXRMTFVyTlMwNVZTRW90S1U5TnpWT0FxMVZJekV2QjBQNkVqMHVCU3pvOG94TFRiSVhTNHRRVWU0a1pQRnlHWERwZ0MxTHlVekVVNWFZbTVpbWtwS1lXS09Ta0poYmxaZWFsMjB0Y0N4SmdCQUEiLCJpZCI6ImZjXzEifQ==",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJUV3N5Ykd4TFlXOWFOREpGY0dKSFMwUjJUa3BFTTJOelNIQTFOMEpvY0ZoUWQwUkRaVkZXYVU5SWNrSnRkVnBqWm0xc2JGRTBUbWgwWjI1Vk9USkxTbkprZVhnd1YwNHpPVGxwRWhjM1VsQkNXazk2ZFV4WlExVjNZbXRRY0dScGJ6SkJOQm9pUVV4RlV6bDFUV0l6VXpKV1VWZzNNVlpSWDA4MWRtaGtWRXgxYjA1bVRsbHNRUSIsImZjdiI6IjMiLCJlaSI6IjdSUEJaT3p1TFlDVXdia1BwZGlvMkE0IiwicWMiOiJDZzV6Wld4bUlHRjBkR1Z1ZEdsdmJoQUFmWmkxNWo0IiwicXVlc3Rpb24iOiJXaGF0IGlzIHNlbGYtYXR0ZW50aW9uPyIsImxrIjoiYzVPU0trN05TVk5JTENsSnpTdkp6TTlUU0swb3lFbk1Td1N4QVEiLCJicyI6ImMtT1M0UklQejBnc1VjZ3NWaWhPelVuVFRTd3BTYzByeWN6UHM1ZDRLY3RseTJVQmswM0pURXRMTFVyTlMwNVZTRW90S1U5TnpWT0FxMVZJekV2QjBQNkVqMHVCU3pvOG94TFRiSVhTNHRRVWU0a1pQRnlHWERwZ0MxTHlVekVVNWFZbTVpbWtwS1lXS09Ta0poYmxaZWFsMjB0Y0N4SmdCQUEiLCJpZCI6ImZjXzEifQ%3D%3D"
+        },
+        {
+            "question": "What is difference between attention and self-attention?",
+            "snippet": "Self-attention is a specific type of attention. The difference between regular attention and self-attention is that instead of relating an input to an output sequence, self-attention focuses on a single sequence. It allows the model to let a sequence learn information about itself.",
+            "title": "Demystifying efficient self-attention | by Thomas van Dongen",
+            "date": "2022. 11. 7.",
+            "link": "https://towardsdatascience.com/demystifying-efficient-self-attention-b3de61b9b0fb",
+            "displayed_link": "https://towardsdatascience.com › demystifying-efficient-s...",
+            "thumbnail": "https://serpapi.com/searches/64c113e89bddf72360924230/images/282737a9f02dd8b7f68e4eb6e8a143888659104a522329fcaf59f59820d43d35.png",
+            "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJUV3N5Ykd4TFlXOWFOREpGY0dKSFMwUjJUa3BFTTJOelNIQTFOMEpvY0ZoUWQwUkRaVkZXYVU5SWNrSnRkVnBqWm0xc2JGRTBUbWgwWjI1Vk9USkxTbkprZVhnd1YwNHpPVGxwRWhjM1VsQkNXazk2ZFV4WlExVjNZbXRRY0dScGJ6SkJOQm9pUVV4RlV6bDFUV0l6VXpKV1VWZzNNVlpSWDA4MWRtaGtWRXgxYjA1bVRsbHNRUSIsImZjdiI6IjMiLCJlaSI6IjdSUEJaT3p1TFlDVXdia1BwZGlvMkE0IiwicWMiOiJDZzV6Wld4bUlHRjBkR1Z1ZEdsdmJoQUFmWmkxNWo0IiwicXVlc3Rpb24iOiJXaGF0IGlzIGRpZmZlcmVuY2UgYmV0d2VlbiBhdHRlbnRpb24gYW5kIHNlbGYtYXR0ZW50aW9uPyIsImxrIjoiYzVNeUw4OUlMRkhJTEZaSXlVeExTeTFLelV0T1ZVaEtMU2xQVGMxVFNDd3BTYzByeWN3SHN2SlNGSXBUYzlJUVFnQSIsImJzIjoiYy1PUzRSSVB6MGdzVWNnc1ZpaE96VW5UVFN3cFNjMHJ5Y3pQczVkNEtjdGx5MlVCazAzSlRFdExMVXJOUzA1VlNFb3RLVTlOelZPQXExVkl6RXZCMFA2RWowdUJTem84b3hMVGJJWFM0dFFVZTRrWlBGeUdYRHBnQzFMeVV6RVU1YVltNWlta3BLWVdLT1NrSmhibFplYWwyMHRjQ3hKZ0JBQSIsImlkIjoiZmNfMSJ9",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJUV3N5Ykd4TFlXOWFOREpGY0dKSFMwUjJUa3BFTTJOelNIQTFOMEpvY0ZoUWQwUkRaVkZXYVU5SWNrSnRkVnBqWm0xc2JGRTBUbWgwWjI1Vk9USkxTbkprZVhnd1YwNHpPVGxwRWhjM1VsQkNXazk2ZFV4WlExVjNZbXRRY0dScGJ6SkJOQm9pUVV4RlV6bDFUV0l6VXpKV1VWZzNNVlpSWDA4MWRtaGtWRXgxYjA1bVRsbHNRUSIsImZjdiI6IjMiLCJlaSI6IjdSUEJaT3p1TFlDVXdia1BwZGlvMkE0IiwicWMiOiJDZzV6Wld4bUlHRjBkR1Z1ZEdsdmJoQUFmWmkxNWo0IiwicXVlc3Rpb24iOiJXaGF0IGlzIGRpZmZlcmVuY2UgYmV0d2VlbiBhdHRlbnRpb24gYW5kIHNlbGYtYXR0ZW50aW9uPyIsImxrIjoiYzVNeUw4OUlMRkhJTEZaSXlVeExTeTFLelV0T1ZVaEtMU2xQVGMxVFNDd3BTYzByeWN3SHN2SlNGSXBUYzlJUVFnQSIsImJzIjoiYy1PUzRSSVB6MGdzVWNnc1ZpaE96VW5UVFN3cFNjMHJ5Y3pQczVkNEtjdGx5MlVCazAzSlRFdExMVXJOUzA1VlNFb3RLVTlOelZPQXExVkl6RXZCMFA2RWowdUJTem84b3hMVGJJWFM0dFFVZTRrWlBGeUdYRHBnQzFMeVV6RVU1YVltNWlta3BLWVdLT1NrSmhibFplYWwyMHRjQ3hKZ0JBQSIsImlkIjoiZmNfMSJ9"
+        },
+        {
+            "question": "Why is self-attention used?",
+            "snippet": "In layman's terms, the self-attention mechanism allows the inputs to interact with each other (“self”) and find out who they should pay more attention to (“attention”). The outputs are aggregates of these interactions and attention scores.",
+            "title": "Illustrated: Self-Attention - Towards Data Science",
+            "link": "https://towardsdatascience.com/illustrated-self-attention-2d627e33b20a",
+            "displayed_link": "https://towardsdatascience.com › illustrated-self-attenti...",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1WBUhsqaANySoaNVt4HZ_advEZtAcdMJNHx5-9lQSFw&s",
+            "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJUV3N5Ykd4TFlXOWFOREpGY0dKSFMwUjJUa3BFTTJOelNIQTFOMEpvY0ZoUWQwUkRaVkZXYVU5SWNrSnRkVnBqWm0xc2JGRTBUbWgwWjI1Vk9USkxTbkprZVhnd1YwNHpPVGxwRWhjM1VsQkNXazk2ZFV4WlExVjNZbXRRY0dScGJ6SkJOQm9pUVV4RlV6bDFUV0l6VXpKV1VWZzNNVlpSWDA4MWRtaGtWRXgxYjA1bVRsbHNRUSIsImZjdiI6IjMiLCJlaSI6IjdSUEJaT3p1TFlDVXdia1BwZGlvMkE0IiwicWMiOiJDZzV6Wld4bUlHRjBkR1Z1ZEdsdmJoQUFmWmkxNWo0IiwicXVlc3Rpb24iOiJXaHkgaXMgc2VsZi1hdHRlbnRpb24gdXNlZD8iLCJsayI6IkdocDNhSGtnYVhNZ2MyVnNaaUJoZEhSbGJuUnBiMjRnZFhObFpBIiwiYnMiOiJjLU9TNFJJUHowZ3NVY2dzVmloT3pVblRUU3dwU2MwcnljelBzNWQ0S2N0bHkyVUJrMDNKVEV0TExVck5TMDVWU0VvdEtVOU56Vk9BcTFWSXpFdkIwUDZFajB1QlN6bzhveExUYklYUzR0UVVlNGtaUEZ5R1hEcGdDMUx5VXpFVTVhWW01aW1rcEtZV0tPU2tKaGJsWmVhbDIwdGNDeEpnQkFBIiwiaWQiOiJmY18xIn0=",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJUV3N5Ykd4TFlXOWFOREpGY0dKSFMwUjJUa3BFTTJOelNIQTFOMEpvY0ZoUWQwUkRaVkZXYVU5SWNrSnRkVnBqWm0xc2JGRTBUbWgwWjI1Vk9USkxTbkprZVhnd1YwNHpPVGxwRWhjM1VsQkNXazk2ZFV4WlExVjNZbXRRY0dScGJ6SkJOQm9pUVV4RlV6bDFUV0l6VXpKV1VWZzNNVlpSWDA4MWRtaGtWRXgxYjA1bVRsbHNRUSIsImZjdiI6IjMiLCJlaSI6IjdSUEJaT3p1TFlDVXdia1BwZGlvMkE0IiwicWMiOiJDZzV6Wld4bUlHRjBkR1Z1ZEdsdmJoQUFmWmkxNWo0IiwicXVlc3Rpb24iOiJXaHkgaXMgc2VsZi1hdHRlbnRpb24gdXNlZD8iLCJsayI6IkdocDNhSGtnYVhNZ2MyVnNaaUJoZEhSbGJuUnBiMjRnZFhObFpBIiwiYnMiOiJjLU9TNFJJUHowZ3NVY2dzVmloT3pVblRUU3dwU2MwcnljelBzNWQ0S2N0bHkyVUJrMDNKVEV0TExVck5TMDVWU0VvdEtVOU56Vk9BcTFWSXpFdkIwUDZFajB1QlN6bzhveExUYklYUzR0UVVlNGtaUEZ5R1hEcGdDMUx5VXpFVTVhWW01aW1rcEtZV0tPU2tKaGJsWmVhbDIwdGNDeEpnQkFBIiwiaWQiOiJmY18xIn0%3D"
+        },
+        {
+            "question": "What does self-attention mean deep learning?",
+            "snippet": "First, let's define what “self-Attention” is. Cheng et al, in their paper named “Long Short-Term Memory-Networks for Machine Reading”, defined self-Attention as the mechanism of relating different positions of a single sequence or sentence in order to gain a more vivid representation.",
+            "title": "Attention Mechanism In Deep Learning - Analytics Vidhya",
+            "date": "2019. 11. 20.",
+            "link": "https://www.analyticsvidhya.com/blog/2019/11/comprehensive-guide-attention-mechanism-deep-learning/",
+            "displayed_link": "https://www.analyticsvidhya.com › blog › 2019/11 › co...",
+            "thumbnail": "https://serpapi.com/searches/64c113e89bddf72360924230/images/282737a9f02dd8b7f68e4eb6e8a143886458bc63dc7acbcecddf67faf1784e3b.png",
+            "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJUV3N5Ykd4TFlXOWFOREpGY0dKSFMwUjJUa3BFTTJOelNIQTFOMEpvY0ZoUWQwUkRaVkZXYVU5SWNrSnRkVnBqWm0xc2JGRTBUbWgwWjI1Vk9USkxTbkprZVhnd1YwNHpPVGxwRWhjM1VsQkNXazk2ZFV4WlExVjNZbXRRY0dScGJ6SkJOQm9pUVV4RlV6bDFUV0l6VXpKV1VWZzNNVlpSWDA4MWRtaGtWRXgxYjA1bVRsbHNRUSIsImZjdiI6IjMiLCJlaSI6IjdSUEJaT3p1TFlDVXdia1BwZGlvMkE0IiwicWMiOiJDZzV6Wld4bUlHRjBkR1Z1ZEdsdmJoQUFmWmkxNWo0IiwicXVlc3Rpb24iOiJXaGF0IGRvZXMgc2VsZi1hdHRlbnRpb24gbWVhbiBkZWVwIGxlYXJuaW5nPyIsImxrIjoiR2l0M2FHRjBJR1J2WlhNZ2MyVnNaaUJoZEhSbGJuUnBiMjRnYldWaGJpQmtaV1Z3SUd4bFlYSnVhVzVuIiwiYnMiOiJjLU9TNFJJUHowZ3NVY2dzVmloT3pVblRUU3dwU2MwcnljelBzNWQ0S2N0bHkyVUJrMDNKVEV0TExVck5TMDVWU0VvdEtVOU56Vk9BcTFWSXpFdkIwUDZFajB1QlN6bzhveExUYklYUzR0UVVlNGtaUEZ5R1hEcGdDMUx5VXpFVTVhWW01aW1rcEtZV0tPU2tKaGJsWmVhbDIwdGNDeEpnQkFBIiwiaWQiOiJmY18xIn0=",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJUV3N5Ykd4TFlXOWFOREpGY0dKSFMwUjJUa3BFTTJOelNIQTFOMEpvY0ZoUWQwUkRaVkZXYVU5SWNrSnRkVnBqWm0xc2JGRTBUbWgwWjI1Vk9USkxTbkprZVhnd1YwNHpPVGxwRWhjM1VsQkNXazk2ZFV4WlExVjNZbXRRY0dScGJ6SkJOQm9pUVV4RlV6bDFUV0l6VXpKV1VWZzNNVlpSWDA4MWRtaGtWRXgxYjA1bVRsbHNRUSIsImZjdiI6IjMiLCJlaSI6IjdSUEJaT3p1TFlDVXdia1BwZGlvMkE0IiwicWMiOiJDZzV6Wld4bUlHRjBkR1Z1ZEdsdmJoQUFmWmkxNWo0IiwicXVlc3Rpb24iOiJXaGF0IGRvZXMgc2VsZi1hdHRlbnRpb24gbWVhbiBkZWVwIGxlYXJuaW5nPyIsImxrIjoiR2l0M2FHRjBJR1J2WlhNZ2MyVnNaaUJoZEhSbGJuUnBiMjRnYldWaGJpQmtaV1Z3SUd4bFlYSnVhVzVuIiwiYnMiOiJjLU9TNFJJUHowZ3NVY2dzVmloT3pVblRUU3dwU2MwcnljelBzNWQ0S2N0bHkyVUJrMDNKVEV0TExVck5TMDVWU0VvdEtVOU56Vk9BcTFWSXpFdkIwUDZFajB1QlN6bzhveExUYklYUzR0UVVlNGtaUEZ5R1hEcGdDMUx5VXpFVTVhWW01aW1rcEtZV0tPU2tKaGJsWmVhbDIwdGNDeEpnQkFBIiwiaWQiOiJmY18xIn0%3D"
+        }
+    ],
+    "organic_results": [
+        {
+            "position": 1,
+            "title": "셀프 어텐션 동작 원리",
+            "link": "https://ratsgo.github.io/nlpbook/docs/language_model/tr_self_attention/",
+            "displayed_link": "https://ratsgo.github.io › docs › tr_self_attention",
+            "favicon": "https://serpapi.com/searches/64c113e89bddf72360924230/images/c00a79d6edee4f16dd1e8fe24b868ee05672e104f392d5129ad1b22bc7f8c0f2.png",
+            "snippet": "트랜스포머(transformer)의 핵심 구성요소는 셀프 어텐션(self attention)입니다. 이 글에서는 셀프 어텐션의 내부 동작 원리에 대해 살펴보겠습니다.",
+            "snippet_highlighted_words": [
+                "self attention"
+            ],
+            "sitelinks": {
+                "inline": [
+                    {
+                        "title": "모델 입력과 출력",
+                        "link": "https://ratsgo.github.io/nlpbook/docs/language_model/tr_self_attention/#%EB%AA%A8%EB%8D%B8-%EC%9E%85%EB%A0%A5%EA%B3%BC-%EC%B6%9C%EB%A0%A5"
+                    },
+                    {
+                        "title": "셀프 어텐션 내부 동작",
+                        "link": "https://ratsgo.github.io/nlpbook/docs/language_model/tr_self_attention/#%EC%85%80%ED%94%84-%EC%96%B4%ED%85%90%EC%85%98-%EB%82%B4%EB%B6%80-%EB%8F%99%EC%9E%91"
+                    },
+                    {
+                        "title": "멀티 헤드 어텐션",
+                        "link": "https://ratsgo.github.io/nlpbook/docs/language_model/tr_self_attention/#%EB%A9%80%ED%8B%B0-%ED%97%A4%EB%93%9C-%EC%96%B4%ED%85%90%EC%85%98"
+                    }
+                ]
+            },
+            "about_this_result": {
+                "source": {
+                    "description": "깃허브는 루비 온 레일스로 작성된 분산 버전 관리 툴인 깃 저장소 호스팅을 지원하는 웹 서비스이다. 깃허브는 영리적인 서비스와 오픈소스를 위한 무상 서비스를 모두 제공한다. 2009년의 깃 사용자 조사에 따르면 깃허브는 가장 인기있는 깃 저장소 호스팅 서비스이다.",
+                    "source_info_link": "https://ko.wikipedia.org/wiki/%EA%B9%83%ED%97%88%EB%B8%8C",
+                    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://ratsgo.github.io&client=ABOUT_THIS_RESULT&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                },
+                "keywords": [
+                    "self",
+                    "attention"
+                ],
+                "related_keywords": [
+                    "셀프"
+                ],
+                "languages": [
+                    "한국어"
+                ],
+                "regions": [
+                    "대한민국"
+                ]
+            },
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:FWo9d7viZdIJ:https://ratsgo.github.io/nlpbook/docs/language_model/tr_self_attention/&cd=10&hl=ko&ct=clnk&gl=kr",
+            "source": "github.io"
+        },
+        {
+            "position": 2,
+            "title": "16-01 트랜스포머(Transformer) - 딥 러닝을 이용한 자연어 처리 ...",
+            "link": "https://wikidocs.net/31379",
+            "displayed_link": "https://wikidocs.net › ...",
+            "favicon": "https://serpapi.com/searches/64c113e89bddf72360924230/images/c00a79d6edee4f16dd1e8fe24b868ee0152f53e1f10136b7be86de346ad1fe9a.png",
+            "snippet": "트랜스포머(Transformer)는 2017년 구글이 발표한 논문인 \"Attention is all you ... 그런데 어텐션 중에서는 셀프 어텐션(self-attention)이라는 것이 있습니다.",
+            "snippet_highlighted_words": [
+                "self",
+                "attention"
+            ],
+            "about_this_result": {
+                "source": {
+                    "description": "Google에서 wikidocs.net의 첫 색인을 생성한 지 10년이 넘었습니다.",
+                    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://wikidocs.net&client=ABOUT_THIS_RESULT&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                },
+                "keywords": [
+                    "self",
+                    "attention"
+                ],
+                "languages": [
+                    "한국어"
+                ],
+                "regions": [
+                    "대한민국"
+                ]
+            },
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:aJGtlb-k488J:https://wikidocs.net/31379&cd=11&hl=ko&ct=clnk&gl=kr",
+            "source": "wikidocs.net"
+        },
+        {
+            "position": 3,
+            "title": "4-1. Transformer(Self Attention) [초등학생도 이해하는 자연어 ...",
+            "link": "https://codingopera.tistory.com/43",
+            "displayed_link": "https://codingopera.tistory.com › ...",
+            "favicon": "https://serpapi.com/searches/64c113e89bddf72360924230/images/c00a79d6edee4f16dd1e8fe24b868ee0e30de1b618662c8927a0790ba2995b5e.png",
+            "date": "2022. 12. 13.",
+            "snippet": "1. Self Attention. Self Attention. 첫 번째 메커니즘은 Self Attention입니다. \"Self Attention\"이란 말 ...",
+            "snippet_highlighted_words": [
+                "Self Attention",
+                "Self Attention",
+                "Self Attention",
+                "Self Attention"
+            ],
+            "about_this_result": {
+                "source": {
+                    "description": "티스토리는 대한민국의 가입형/설치형 블로그 서비스다. 2006년 5월 25일, 다음커뮤니케이션과 태터앤컴퍼니가 함께 공동운영을 시작했으나, 서비스 시작 1년 2개월 만인 2007년 7월 10일에 모든 서비스의 운영권이 다음커뮤니케이션으로 이관되었다.",
+                    "source_info_link": "https://ko.wikipedia.org/wiki/%ED%8B%B0%EC%8A%A4%ED%86%A0%EB%A6%AC",
+                    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://codingopera.tistory.com&client=ABOUT_THIS_RESULT&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                },
+                "keywords": [
+                    "self",
+                    "attention"
+                ],
+                "languages": [
+                    "한국어"
+                ],
+                "regions": [
+                    "대한민국"
+                ]
+            },
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:NSn5nD0OWEkJ:https://codingopera.tistory.com/43&cd=12&hl=ko&ct=clnk&gl=kr",
+            "source": "tistory.com"
+        },
+        {
+            "position": 4,
+            "title": "Illustrated: Self-Attention - Towards Data Science",
+            "link": "https://towardsdatascience.com/illustrated-self-attention-2d627e33b20a",
+            "displayed_link": "https://towardsdatascience.com › illustrated-self-attenti...",
+            "favicon": "https://serpapi.com/searches/64c113e89bddf72360924230/images/c00a79d6edee4f16dd1e8fe24b868ee013446cba497541d33c23b527afa59d5b.png",
+            "snippet": "In layman's terms, the self-attention mechanism allows the inputs to interact with each other (“self”) and find out who they should pay more attention to (“ ...",
+            "snippet_highlighted_words": [
+                "self",
+                "attention"
+            ],
+            "about_this_result": {
+                "source": {
+                    "description": "Google에서 towardsdatascience.com의 첫 색인을 October 2016에 생성했습니다.",
+                    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://towardsdatascience.com&client=ABOUT_THIS_RESULT&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                },
+                "keywords": [
+                    "self",
+                    "attention"
+                ],
+                "languages": [
+                    "한국어"
+                ],
+                "regions": [
+                    "대한민국"
+                ]
+            },
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:yQcQUFPxnN8J:https://towardsdatascience.com/illustrated-self-attention-2d627e33b20a&cd=22&hl=ko&ct=clnk&gl=kr",
+            "source": "towardsdatascience.com"
+        },
+        {
+            "position": 5,
+            "title": "[NLP] Transformer 모델 분석 (Self-Attention)",
+            "link": "https://wdprogrammer.tistory.com/72",
+            "displayed_link": "https://wdprogrammer.tistory.com › ...",
+            "favicon": "https://serpapi.com/searches/64c113e89bddf72360924230/images/c00a79d6edee4f16dd1e8fe24b868ee09b25ff4d8f931ba60182d80688070648.png",
+            "date": "2020. 10. 11.",
+            "snippet": "현재 Attention is All you Need는 NLP를 한다면 반드시 읽어야 될 논문일 뿐만 아니라 인공지능을 연구한다면 반드시 읽어봐야 할 논문이 되었다.",
+            "snippet_highlighted_words": [
+                "Attention"
+            ],
+            "about_this_result": {
+                "source": {
+                    "description": "티스토리는 대한민국의 가입형/설치형 블로그 서비스다. 2006년 5월 25일, 다음커뮤니케이션과 태터앤컴퍼니가 함께 공동운영을 시작했으나, 서비스 시작 1년 2개월 만인 2007년 7월 10일에 모든 서비스의 운영권이 다음커뮤니케이션으로 이관되었다.",
+                    "source_info_link": "https://ko.wikipedia.org/wiki/%ED%8B%B0%EC%8A%A4%ED%86%A0%EB%A6%AC",
+                    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://wdprogrammer.tistory.com&client=ABOUT_THIS_RESULT&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                },
+                "keywords": [
+                    "self",
+                    "attention"
+                ],
+                "languages": [
+                    "한국어"
+                ],
+                "regions": [
+                    "대한민국"
+                ]
+            },
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:lGRCQAurV-YJ:https://wdprogrammer.tistory.com/72&cd=23&hl=ko&ct=clnk&gl=kr",
+            "source": "tistory.com"
+        },
+        {
+            "position": 6,
+            "title": "Attention, Transformer(Self-Attention) - velog",
+            "link": "https://velog.io/@idj7183/Attention-TransformerSelf-Attention",
+            "displayed_link": "https://velog.io › Attention-TransformerSelf-Attention",
+            "favicon": "https://serpapi.com/searches/64c113e89bddf72360924230/images/c00a79d6edee4f16dd1e8fe24b868ee0b51b6c53426a775a771786b67cd7fdbe.png",
+            "date": "2022. 3. 7.",
+            "snippet": "Attention, Transformer(Self-Attention)",
+            "snippet_highlighted_words": [
+                "Self",
+                "Attention"
+            ],
+            "about_this_result": {
+                "source": {
+                    "description": "Google에서 velog.io의 첫 색인을 March 2018에 생성했습니다.",
+                    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://velog.io&client=ABOUT_THIS_RESULT&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                },
+                "keywords": [
+                    "self",
+                    "attention"
+                ],
+                "languages": [
+                    "한국어"
+                ],
+                "regions": [
+                    "대한민국"
+                ]
+            },
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:QVNzLAfmOq8J:https://velog.io/%40idj7183/Attention-TransformerSelf-Attention&cd=24&hl=ko&ct=clnk&gl=kr",
+            "source": "velog.io"
+        },
+        {
+            "position": 7,
+            "title": "Understanding and Coding the Self-Attention Mechanism of ...",
+            "link": "https://sebastianraschka.com/blog/2023/self-attention-from-scratch.html",
+            "displayed_link": "https://sebastianraschka.com › blog › self-attention-fro...",
+            "favicon": "https://serpapi.com/searches/64c113e89bddf72360924230/images/c00a79d6edee4f16dd1e8fe24b868ee05d6c64b7d5a20cc0afa567baa25db8f3.png",
+            "date": "2023. 2. 9.",
+            "snippet": "We can think of self-attention as a mechanism that enhances the information content of an input embedding by including information about the ...",
+            "snippet_highlighted_words": [
+                "self",
+                "attention"
+            ],
+            "about_this_result": {
+                "source": {
+                    "description": "Google에서 sebastianraschka.com의 첫 색인을 생성한 지 10년이 넘었습니다.",
+                    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://sebastianraschka.com&client=ABOUT_THIS_RESULT&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                },
+                "keywords": [
+                    "self",
+                    "attention"
+                ],
+                "languages": [
+                    "한국어"
+                ],
+                "regions": [
+                    "대한민국"
+                ]
+            },
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:ETHZx9LvnuUJ:https://sebastianraschka.com/blog/2023/self-attention-from-scratch.html&cd=25&hl=ko&ct=clnk&gl=kr",
+            "source": "sebastianraschka.com"
+        },
+        {
+            "position": 8,
+            "title": "Self-attention - Wikipedia",
+            "link": "https://en.wikipedia.org/wiki/Self-attention",
+            "displayed_link": "https://en.wikipedia.org › wiki › Self-attention",
+            "favicon": "https://serpapi.com/searches/64c113e89bddf72360924230/images/c00a79d6edee4f16dd1e8fe24b868ee09666d12028871b986419eecdb4b745f0.png",
+            "snippet": "Self Attention, also called intra Attention, is an attention mechanism relating different positions of a single sequence in order to compute a ...",
+            "snippet_highlighted_words": [
+                "Self Attention"
+            ],
+            "about_this_result": {
+                "source": {
+                    "description": "위키백과 또는 위키피디아는 누구나 자유롭게 쓸 수 있는 다언어판 인터넷 백과사전이다. 개방된 협업을 통해 위키 기반 편집 시스템을 사용하여 자발적인 위키백과 사용자 공동체가 작성하고 관리하고 있다.",
+                    "source_info_link": "https://ko.wikipedia.org/wiki/%EC%9C%84%ED%82%A4%EB%B0%B1%EA%B3%BC",
+                    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://en.wikipedia.org&client=ABOUT_THIS_RESULT&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                },
+                "keywords": [
+                    "self",
+                    "attention"
+                ],
+                "languages": [
+                    "한국어"
+                ],
+                "regions": [
+                    "대한민국"
+                ]
+            },
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:sb7wZ-lxSq8J:https://en.wikipedia.org/wiki/Self-attention&cd=26&hl=ko&ct=clnk&gl=kr",
+            "source": "wikipedia.org"
+        },
+        {
+            "position": 9,
+            "title": "어텐션 메커니즘과 transfomer(self-attention)",
+            "link": "https://medium.com/platfarm/%EC%96%B4%ED%85%90%EC%85%98-%EB%A9%94%EC%BB%A4%EB%8B%88%EC%A6%98%EA%B3%BC-transfomer-self-attention-842498fd3225",
+            "displayed_link": "https://medium.com › platfarm › 어텐션-메커니즘과-t...",
+            "favicon": "https://serpapi.com/searches/64c113e89bddf72360924230/images/c00a79d6edee4f16dd1e8fe24b868ee0aa47a4a2712990474853c4fd689137dc.png",
+            "date": "2019. 3. 10.",
+            "snippet": "attn_output, attention = self.attention_net(output, final_hidden_state) 을 통해 지금까지의 LSTM output과 LSTM State의 마지막 ...",
+            "snippet_highlighted_words": [
+                "attention",
+                "self"
+            ],
+            "about_this_result": {
+                "source": {
+                    "description": "미디엄은 에번 윌리엄스가 개발한 온라인 출판 플랫폼의 하나로, 2012년 8월 시작되었다. A 미디엄 코퍼레이션의 소유이다.",
+                    "source_info_link": "https://ko.wikipedia.org/wiki/%EB%AF%B8%EB%94%94%EC%97%84_(%EC%9B%B9%EC%82%AC%EC%9D%B4%ED%8A%B8)",
+                    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://medium.com&client=ABOUT_THIS_RESULT&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                },
+                "keywords": [
+                    "self",
+                    "attention"
+                ],
+                "languages": [
+                    "한국어"
+                ],
+                "regions": [
+                    "대한민국"
+                ]
+            },
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:FE9S0HsUjYgJ:https://medium.com/platfarm/%25EC%2596%25B4%25ED%2585%2590%25EC%2585%2598-%25EB%25A9%2594%25EC%25BB%25A4%25EB%258B%2588%25EC%25A6%2598%25EA%25B3%25BC-transfomer-self-attention-842498fd3225&cd=27&hl=ko&ct=clnk&gl=kr",
+            "source": "medium.com"
+        },
+        {
+            "position": 10,
+            "title": "Attention is All you Need - NIPS papers",
+            "link": "https://papers.neurips.cc/paper/7181-attention-is-all-you-need.pdf",
+            "displayed_link": "https://papers.neurips.cc › paper › 7181-attentio...",
+            "favicon": "https://serpapi.com/searches/64c113e89bddf72360924230/images/c00a79d6edee4f16dd1e8fe24b868ee00480cf54f14763c34a248187b7b54587.png",
+            "date": "A Vaswani 저술 82841회 인용",
+            "snippet": "Self-attention has been used successfully in a variety of tasks including reading comprehension, abstractive summarization, textual entailment and learning task ...",
+            "snippet_highlighted_words": [
+                "Self",
+                "attention"
+            ],
+            "about_this_result": {
+                "source": {
+                    "description": "Google에서 papers.neurips.cc의 첫 색인을 April 2019에 생성했습니다.",
+                    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://papers.neurips.cc&client=ABOUT_THIS_RESULT&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                },
+                "keywords": [
+                    "self",
+                    "attention"
+                ],
+                "languages": [
+                    "한국어"
+                ],
+                "regions": [
+                    "대한민국"
+                ]
+            },
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:Wasbh3ymR2YJ:https://papers.neurips.cc/paper/7181-attention-is-all-you-need.pdf&cd=28&hl=ko&ct=clnk&gl=kr",
+            "source": "neurips.cc"
+        }
+    ],
+    "related_searches": [
+        {
+            "query": "multi-head self-attention 설명",
+            "link": "https://www.google.com/search?sca_esv=551161701&hl=ko&gl=kr&q=multi-head+self-attention+%EC%84%A4%EB%AA%85&sa=X&ved=2ahUKEwismdqSsqyAAxUASjABHSUsCusQ1QJ6BAgxEAE"
+        },
+        {
+            "query": "multi-head attention 장점",
+            "link": "https://www.google.com/search?sca_esv=551161701&hl=ko&gl=kr&q=multi-head+attention+%EC%9E%A5%EC%A0%90&sa=X&ved=2ahUKEwismdqSsqyAAxUASjABHSUsCusQ1QJ6BAguEAE"
+        },
+        {
+            "query": "Transformer attention",
+            "link": "https://www.google.com/search?sca_esv=551161701&hl=ko&gl=kr&q=Transformer+attention&sa=X&ved=2ahUKEwismdqSsqyAAxUASjABHSUsCusQ1QJ6BAgtEAE"
+        }
+    ],
+    "pagination": {
+        "current": 1,
+        "next": "https://www.google.com/search?q=self-attention&sca_esv=551161701&hl=ko&gl=kr&ei=7RPBZOzuLYCUwbkPpdio2A4&start=10&sa=N&ved=2ahUKEwismdqSsqyAAxUASjABHSUsCusQ8NMDegQIBRAW",
+        "other_pages": {
+            "2": "https://www.google.com/search?q=self-attention&sca_esv=551161701&hl=ko&gl=kr&ei=7RPBZOzuLYCUwbkPpdio2A4&start=10&sa=N&ved=2ahUKEwismdqSsqyAAxUASjABHSUsCusQ8tMDegQIBRAE",
+            "3": "https://www.google.com/search?q=self-attention&sca_esv=551161701&hl=ko&gl=kr&ei=7RPBZOzuLYCUwbkPpdio2A4&start=20&sa=N&ved=2ahUKEwismdqSsqyAAxUASjABHSUsCusQ8tMDegQIBRAG",
+            "4": "https://www.google.com/search?q=self-attention&sca_esv=551161701&hl=ko&gl=kr&ei=7RPBZOzuLYCUwbkPpdio2A4&start=30&sa=N&ved=2ahUKEwismdqSsqyAAxUASjABHSUsCusQ8tMDegQIBRAI",
+            "5": "https://www.google.com/search?q=self-attention&sca_esv=551161701&hl=ko&gl=kr&ei=7RPBZOzuLYCUwbkPpdio2A4&start=40&sa=N&ved=2ahUKEwismdqSsqyAAxUASjABHSUsCusQ8tMDegQIBRAK",
+            "6": "https://www.google.com/search?q=self-attention&sca_esv=551161701&hl=ko&gl=kr&ei=7RPBZOzuLYCUwbkPpdio2A4&start=50&sa=N&ved=2ahUKEwismdqSsqyAAxUASjABHSUsCusQ8tMDegQIBRAM",
+            "7": "https://www.google.com/search?q=self-attention&sca_esv=551161701&hl=ko&gl=kr&ei=7RPBZOzuLYCUwbkPpdio2A4&start=60&sa=N&ved=2ahUKEwismdqSsqyAAxUASjABHSUsCusQ8tMDegQIBRAO",
+            "8": "https://www.google.com/search?q=self-attention&sca_esv=551161701&hl=ko&gl=kr&ei=7RPBZOzuLYCUwbkPpdio2A4&start=70&sa=N&ved=2ahUKEwismdqSsqyAAxUASjABHSUsCusQ8tMDegQIBRAQ",
+            "9": "https://www.google.com/search?q=self-attention&sca_esv=551161701&hl=ko&gl=kr&ei=7RPBZOzuLYCUwbkPpdio2A4&start=80&sa=N&ved=2ahUKEwismdqSsqyAAxUASjABHSUsCusQ8tMDegQIBRAS",
+            "10": "https://www.google.com/search?q=self-attention&sca_esv=551161701&hl=ko&gl=kr&ei=7RPBZOzuLYCUwbkPpdio2A4&start=90&sa=N&ved=2ahUKEwismdqSsqyAAxUASjABHSUsCusQ8tMDegQIBRAU"
+        }
+    },
+    "serpapi_pagination": {
+        "current": 1,
+        "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=kr&google_domain=google.com&hl=ko&q=self-attention&start=10",
+        "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=kr&google_domain=google.com&hl=ko&q=self-attention&start=10",
+        "other_pages": {
+            "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=kr&google_domain=google.com&hl=ko&q=self-attention&start=10",
+            "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=kr&google_domain=google.com&hl=ko&q=self-attention&start=20",
+            "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=kr&google_domain=google.com&hl=ko&q=self-attention&start=30",
+            "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=kr&google_domain=google.com&hl=ko&q=self-attention&start=40",
+            "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=kr&google_domain=google.com&hl=ko&q=self-attention&start=50",
+            "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=kr&google_domain=google.com&hl=ko&q=self-attention&start=60",
+            "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=kr&google_domain=google.com&hl=ko&q=self-attention&start=70",
+            "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=kr&google_domain=google.com&hl=ko&q=self-attention&start=80",
+            "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=kr&google_domain=google.com&hl=ko&q=self-attention&start=90"
+        }
+    }
+}

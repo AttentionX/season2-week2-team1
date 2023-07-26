@@ -112,7 +112,7 @@ class SimpleCrawler:
         cursor: int = 0
 
         child_nodes: Dict[str, List[Dict[str, Any]]] = {}
-        elements_in_view_port: List[ElementInViewPort] = []
+        elements_in_view_port: List = []
 
         anchor_ancestry: Dict[str, Tuple[bool, Optional[int]]] = {"-1": (False, None)}
         button_ancestry: Dict[str, Tuple[bool, Optional[int]]] = {"-1": (False, None)}
