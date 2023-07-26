@@ -1,5 +1,17 @@
-<<<<<<< HEAD
-# season2-week2-team1
-=======
-# 2-onboarding-projects
->>>>>>> e5d57a1 (Initial commit)
+# Author agent
+
+## Setup
+
+    ```bash
+    pip3 install -r requirements.txt
+    ```
+
+## Run
+
+    ```bash
+    python3 main.py
+    ```
+
+## Output
+
+    `data/books.txt`

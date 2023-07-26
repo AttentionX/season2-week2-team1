@@ -1,2 +1,8 @@
 .venv
+venv/
 venv
+data
+data/
+__pycache__
+__pycache__/
+.env
