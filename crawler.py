@@ -1,4 +1,5 @@
 import asyncio
+import os
 import time
 import openai
 from sys import platform
@@ -387,6 +388,9 @@ class SimpleCrawler:
 def crawl_and_rewrite(crawler, time, url_link: str) -> str:
     crawler.go_to_page(url_link)
     crawl_result = crawler.crawl()
+    # If data/ directory does not exist, create it
+    if not os.path.exists('data'):
+        os.makedirs('data')
     with open('data/result_{}.txt'.format(time), 'w') as f:
         f.write(crawl_result)
         print('saved crawling result to result_{}.txt'.format(time))
