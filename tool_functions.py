@@ -1,5 +1,7 @@
 import os
 import requests
+from termcolor import colored
+
 from utils import save_as_json
 from openai_api import OpenAI_API
 import prompts
@@ -22,7 +24,9 @@ def get_google_results(query) -> str:
     result = requests.get(SERPAPI_ENDPOINT + "/search", params=params).json()
     save_as_json(result, os.path.join("data", "google_results.json"))
 
-    organic_results = result["organic_results"]
+    organic_results = result.pop("organic_results", None)
+    if not organic_results:
+        raise ValueError("No organic results found, please check your SerpApi account or query. \n{}".format(result))
     
     return str(organic_results)[:1000]
 
@@ -36,8 +40,7 @@ def extract_url(query, search_results) -> str:
     return res
     
     
-def crawl_and_write(url_link) -> str:
-    result = crawl_and_rewrite(crawler, time.time(), url_link)
-    print('글쓰기 결과: {}'.format(result))
-    
+def crawl_and_write(query, url_link) -> str:
+    result = crawl_and_rewrite(crawler, query, url_link)
+    print(colored('글쓰기 결과: {}'.format(result), "green"))
     return result

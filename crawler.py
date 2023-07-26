@@ -1,21 +1,21 @@
-import asyncio
+import os
 import os
 import time
-import openai
 from sys import platform
-from playwright.sync_api import Browser, CDPSession, Page, sync_playwright
 from typing import (
-    TYPE_CHECKING,
     Any,
     Dict,
-    Iterable,
     List,
     Optional,
     Set,
     Tuple,
-    TypedDict,
-    Union,
 )
+
+import openai
+from playwright.sync_api import Browser, CDPSession, Page
+
+from prompts import TEXT_SUMMARIZATION_PROMPT, BOOK_WRITING_PROMPT
+from summarization import generate_summary
 
 black_listed_elements: Set[str] = {
     "html",
@@ -34,6 +34,7 @@ black_listed_elements: Set[str] = {
 }
 
 
+## crawler class
 class SimpleCrawler:
     def __init__(self) -> None:
         try:
@@ -316,7 +317,7 @@ class SimpleCrawler:
                 }
             )
 
-        # lets filter further to remove anything that does not hold any text nor has click handlers + merge text from leaf#text nodes with the parent
+        # let filter further to remove anything that does not hold any text nor has click handlers + merge text from leaf#text nodes with the parent
         elements_of_interest = []
         id_counter = 0
 
@@ -385,60 +386,26 @@ class SimpleCrawler:
         return res
 
 
-def crawl_and_rewrite(crawler, time, url_link: str) -> str:
+def crawl_and_rewrite(crawler, query, url_link: str) -> str:
     crawler.go_to_page(url_link)
     crawl_result = crawler.crawl()
     # If data/ directory does not exist, create it
     if not os.path.exists('data'):
         os.makedirs('data')
-    with open('data/result_{}.txt'.format(time), 'w') as f:
+    with open('data/crawling_result_query_{}.txt'.format(query), 'w') as f:
         f.write(crawl_result)
-        print('saved crawling result to result_{}.txt'.format(time))
-    result = generate_summary(crawl_result)
-    prompt = 'Write a document based on the following text:\n' + '\n'.join(result)
-    res = ask_to_openai(prompt)
-    with open("data/book.txt", 'a') as f:
-        f.write(res)
-    return res
-
-
-def generate_summary(text):
-    input_chunks = split_text(text)
-    print('writing some documents based on the result...')
-    summarized_text = [ask_to_openai(f'Give me the Summarization of the text in korean. \n text:{chunk} \n result:') for chunk in input_chunks]
-    print(summarized_text)
-    # 청크 이슈 있을 수 있음
-    return ask_to_openai('\n'.join(summarized_text))
-
-
-def ask_to_openai(text) -> str:
-    messages = [{"role": "user", "content": text}]
+        print('saved crawling result to crawling_result_query_{}.txt'.format(query))
+    summarization = generate_summary(crawl_result)
+    messages = [{"role": "user", "content": BOOK_WRITING_PROMPT.format(summarization=summarization)}]
     response = openai.ChatCompletion.create(model="gpt-3.5-turbo", messages=messages).choices[0].message.content.lower()
-    print('got response from openai: {}'.format(response))
+    # print('got response from openai: \n {}'.format(response))
+    with open("data/book_{}.txt".format(query), 'a') as f:
+        f.write(response)
     return response
 
 
-def split_text(text):
-    max_chunk_size = 400
-    chunks = []
-    current_chunk = ""
-    for sentence in text.split("."):
-        if len(current_chunk) + len(sentence) < max_chunk_size:
-            current_chunk += sentence + "."
-        else:
-            chunks.append(current_chunk.strip())
-            current_chunk = sentence + "."
-    if current_chunk:
-        chunks.append(current_chunk.strip())
-    return chunks
-
-
-def main():
+if __name__ == "__main__":
     crawler = SimpleCrawler()
     url_link = "https://ko.wikipedia.org/wiki/%EC%98%81%ED%99%94"
-    result = crawl_and_rewrite(crawler, time.time(), url_link)
+    result = crawl_and_rewrite(crawler, "test", url_link)
     print('글쓰기 결과: {}'.format(result))
-
-
-if __name__ == "__main__":
-    main()
