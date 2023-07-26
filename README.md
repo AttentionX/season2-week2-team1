@@ -1,1 +1,17 @@
-# season2-week2-team1
+# Author agent
+
+## Setup
+
+    ```bash
+    pip3 install -r requirements.txt
+    ```
+
+## Run
+
+    ```bash
+    python3 main.py
+    ```
+
+## Output
+
+    `data/books.txt`

@@ -43,7 +43,7 @@ class SimpleCrawler:
                 "Please install it with `pip install playwright`."
             )
         self.browser: Browser = (
-            sync_playwright().start().chromium.launch(headless=False)
+            sync_playwright().start().chromium.launch(headless=True)
         )
         self.page: Page = self.browser.new_page()
         self.page.set_viewport_size({"width": 1280, "height": 1080})
@@ -112,7 +112,7 @@ class SimpleCrawler:
         cursor: int = 0
 
         child_nodes: Dict[str, List[Dict[str, Any]]] = {}
-        elements_in_view_port: List[ElementInViewPort] = []
+        elements_in_view_port: List = []
 
         anchor_ancestry: Dict[str, Tuple[bool, Optional[int]]] = {"-1": (False, None)}
         button_ancestry: Dict[str, Tuple[bool, Optional[int]]] = {"-1": (False, None)}
@@ -387,12 +387,15 @@ class SimpleCrawler:
 def crawl_and_rewrite(crawler, time, url_link: str) -> str:
     crawler.go_to_page(url_link)
     crawl_result = crawler.crawl()
-    with open('result_{}.txt'.format(time), 'w') as f:
+    with open('data/result_{}.txt'.format(time), 'w') as f:
         f.write(crawl_result)
         print('saved crawling result to result_{}.txt'.format(time))
     result = generate_summary(crawl_result)
     prompt = 'Write a document based on the following text:\n' + '\n'.join(result)
-    return ask_to_openai(prompt)
+    res = ask_to_openai(prompt)
+    with open("data/book.txt", 'a') as f:
+        f.write(res)
+    return res
 
 
 def generate_summary(text):
