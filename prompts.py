@@ -40,3 +40,16 @@ Available tools are:
 What will you do next?
 """
 
+TEXT_SUMMARIZATION_PROMPT="""
+Give me the Summarization of the text in english.
+
+text:{text}
+
+result:
+"""
+
+BOOK_WRITING_PROMPT="""
+Write a storytelling document based on the following text summarization.
+
+summarization: {summarization}
+"""
